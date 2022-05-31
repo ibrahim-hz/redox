@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redox/static/css/main.abd64e84.css",
+    "main.js": "/redox/static/js/main.8bda9e2c.js",
+    "static/js/787.c2ddbe47.chunk.js": "/redox/static/js/787.c2ddbe47.chunk.js",
+    "index.html": "/redox/index.html",
+    "main.abd64e84.css.map": "/redox/static/css/main.abd64e84.css.map",
+    "main.8bda9e2c.js.map": "/redox/static/js/main.8bda9e2c.js.map",
+    "787.c2ddbe47.chunk.js.map": "/redox/static/js/787.c2ddbe47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8bda9e2c.js"
+  ]
+}
